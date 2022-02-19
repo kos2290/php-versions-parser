@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace KoS\PHPVersionsParser;
+namespace KonstantinDmitrienko\PHPVersionsParser;
 
 use DOMDocument;
 

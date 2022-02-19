@@ -10,10 +10,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "KoS\\PHPVersionsParser\\": "src/"
+      "KonstantinDmitrienko\\PHPVersionsParser\\": "src/"
     }
   },
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.4",
+    "ext-libxml": "*",
+    "ext-dom": "*"
   }
 }
